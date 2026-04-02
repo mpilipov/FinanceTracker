@@ -176,7 +176,7 @@ between expenses and incomes. If the balance is positive, the background of it i
 
 Otherwise the background is red.
 
-<img width="560" height="524" alt="image" src="https://github.com/user-attachments/assets/c5e7b3ea-48b4-4ff0-8767-083537ff1aa9" />
+<img width="460" height="430" alt="image" src="https://github.com/user-attachments/assets/c5e7b3ea-48b4-4ff0-8767-083537ff1aa9" />
 
 # **Settings**
 
@@ -184,7 +184,7 @@ In this Activity it’s possible to delete all the records about income and expe
 
 the Home Activity.
 
-<img width="235" height="473" alt="image" src="https://github.com/user-attachments/assets/c0cf762b-0d85-4e6a-bd91-6dcd7533f2ac" />
+<img width="204" height="410" alt="image" src="https://github.com/user-attachments/assets/c0cf762b-0d85-4e6a-bd91-6dcd7533f2ac" />
 
 # **Export**
 
@@ -193,7 +193,7 @@ In this activity it’s possible to make export all the data into Excel file for
 
 library to do it. On the second screenshot you can see an example of exported data into Excel.
 
-<img width="593" height="581" alt="image" src="https://github.com/user-attachments/assets/c69f3fdf-b63d-4b61-bd41-97ca0584192c" />
+<img width="500" height="490" alt="image" src="https://github.com/user-attachments/assets/c69f3fdf-b63d-4b61-bd41-97ca0584192c" />
 
 
 # **About**
@@ -202,7 +202,7 @@ On this activity there is a short information about the author of this applicati
 
 hyperlink which allows to send an email to the author of this application.
 
-<img width="317" height="598" alt="image" src="https://github.com/user-attachments/assets/64599d35-0ede-4614-abfd-8e6dd03f58d3" />
+<img width="265" height="500" alt="image" src="https://github.com/user-attachments/assets/64599d35-0ede-4614-abfd-8e6dd03f58d3" />
 
 # **Conclusion**
 
