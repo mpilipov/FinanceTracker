@@ -1,4 +1,4 @@
-# FinanceTracker
+# Finance Tracker
 This Android application is for tracking user's finances made by 
 **Mikhail Pilipov**
 
