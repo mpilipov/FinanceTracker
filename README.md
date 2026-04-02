@@ -79,6 +79,7 @@ Unfortunately, it was not possible to make the main screen more interesting, bec
 side menu activity did not allow to put any other elements on it – the application stopped
 
 working in such cases.
+<img width="447" height="427" alt="image" src="https://github.com/user-attachments/assets/de6797bd-d717-45e2-8261-a5f64e56dcc3" />
 
 
 # **Expenses**
@@ -96,6 +97,7 @@ Piechart immediately. I used Piechart from the library com.github.mikephil.chart
 There are 9 possible categories of expenses: Health, Leisure, Home, Groceries, Gifts, Café,
 
 Transport, Cosmetics, Clothes and shoes.
+<img width="748" height="468" alt="image" src="https://github.com/user-attachments/assets/99daf452-bd8a-4925-82a7-668cdaad35f8" />
 
 
 In order to save all the recordings, I use the file “expenses.txt” in the Internal storage. Every
@@ -130,6 +132,7 @@ Piechart immediately. I used Piechart from the library com.github.mikephil.chart
 
 
 There are 5 possible categories of expenses: Paycheck, Gift, Dividend, Bonus
+<img width="772" height="480" alt="image" src="https://github.com/user-attachments/assets/d88e4d78-54fc-4e69-ba35-c4bfcfbd5d1d" />
 
 
 In order to save all the recordings, I use the file “incomes.txt” in the Internal storage. Every
@@ -171,6 +174,7 @@ between expenses and incomes. If the balance is positive, the background of it i
 
 
 Otherwise the background is red.
+<img width="660" height="617" alt="image" src="https://github.com/user-attachments/assets/c5e7b3ea-48b4-4ff0-8767-083537ff1aa9" />
 
 
 # **Settings**
@@ -178,8 +182,11 @@ Otherwise the background is red.
 In this Activity it’s possible to delete all the records about income and expenses and to return to
 
 the Home Activity.
+<img width="235" height="473" alt="image" src="https://github.com/user-attachments/assets/c0cf762b-0d85-4e6a-bd91-6dcd7533f2ac" />
+
 
 # **Export**
+<img width="593" height="581" alt="image" src="https://github.com/user-attachments/assets/c69f3fdf-b63d-4b61-bd41-97ca0584192c" />
 
 
 In this activity it’s possible to make export all the data into Excel file format. I used Apache POI
@@ -193,6 +200,8 @@ library to do it. On the second screenshot you can see an example of exported da
 On this activity there is a short information about the author of this application and also a
 
 hyperlink which allows to send an email to the author of this application.
+<img width="317" height="598" alt="image" src="https://github.com/user-attachments/assets/64599d35-0ede-4614-abfd-8e6dd03f58d3" />
+
 
 # **Conclusion**
 
