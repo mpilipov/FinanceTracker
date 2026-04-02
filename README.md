@@ -80,7 +80,7 @@ side menu activity did not allow to put any other elements on it – the applica
 
 working in such cases.
 
-<img width="644" height="610" alt="image" src="https://github.com/user-attachments/assets/628aaa79-51a0-4ce3-86c3-f5769e28e8c5" />
+<img width="444" height="423" alt="image" src="https://github.com/user-attachments/assets/628aaa79-51a0-4ce3-86c3-f5769e28e8c5" />
 
 
 # **Expenses**
@@ -98,7 +98,7 @@ Piechart immediately. I used Piechart from the library com.github.mikephil.chart
 There are 9 possible categories of expenses: Health, Leisure, Home, Groceries, Gifts, Café,
 
 Transport, Cosmetics, Clothes and shoes.
-<img width="748" height="468" alt="image" src="https://github.com/user-attachments/assets/99daf452-bd8a-4925-82a7-668cdaad35f8" />
+<img width="548" height="343" alt="image" src="https://github.com/user-attachments/assets/99daf452-bd8a-4925-82a7-668cdaad35f8" />
 
 
 In order to save all the recordings, I use the file “expenses.txt” in the Internal storage. Every
