@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="295dp"
+    android:layout_height="240dp"
+    android:background="@drawable/headerbkg"
+    android:gravity="bottom">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="295dp"
+        android:layout_height="118dp"
+        android:layout_weight="1"
+        android:paddingStart="20dp"
+        android:text="Finance Tracker"
+        android:textColor="#fff"
+        android:textSize="30dp"
+        android:textStyle="bold" />
+</LinearLayout>
