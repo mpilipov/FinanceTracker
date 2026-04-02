@@ -191,7 +191,7 @@ the Home Activity.
 In this activity it’s possible to make export all the data into Excel file format. I used Apache POI
 
 
-library to do it. On the second screenshot you can see an example of exported data into Excel.
+library to do it. On the second screenshot you can see an example of exported data into Excel file.
 
 <img width="500" height="490" alt="image" src="https://github.com/user-attachments/assets/c69f3fdf-b63d-4b61-bd41-97ca0584192c" />
 
