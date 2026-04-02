@@ -1,5 +1,5 @@
 # FinanceTracker
-This Android application is for tracking user's finances 
+This Android application is for tracking user's finances made by 
 **Mikhail Pilipov**
 
 
@@ -80,7 +80,8 @@ side menu activity did not allow to put any other elements on it – the applica
 
 working in such cases.
 
-<img width="447" height="427" alt="image" src="https://github.com/user-attachments/assets/de6797bd-d717-45e2-8261-a5f64e56dcc3" />
+<img width="644" height="610" alt="image" src="https://github.com/user-attachments/assets/628aaa79-51a0-4ce3-86c3-f5769e28e8c5" />
+
 
 # **Expenses**
 
