@@ -176,7 +176,8 @@ between expenses and incomes. If the balance is positive, the background of it i
 
 Otherwise the background is red.
 
-<img width="460" height="430" alt="image" src="https://github.com/user-attachments/assets/c5e7b3ea-48b4-4ff0-8767-083537ff1aa9" />
+<img width="600" height="557" alt="image" src="https://github.com/user-attachments/assets/4cd359a1-10e1-4b94-9c60-3b9de9fd2a43" />
+
 
 # **Settings**
 
