@@ -132,7 +132,7 @@ and to tap the button ‘ADD’. After tapping this button, the new income will 
 Piechart immediately. I used Piechart from the library com.github.mikephil.charting.
 
 
-There are 5 possible categories of expenses: Paycheck, Gift, Dividend, Bonus
+There are 5 possible categories of expenses: Paycheck, Gift, Dividend, Bonus, Cashback
 <img width="672" height="418" alt="image" src="https://github.com/user-attachments/assets/d88e4d78-54fc-4e69-ba35-c4bfcfbd5d1d" />
 
 
