@@ -97,9 +97,9 @@ Piechart immediately. I used Piechart from the library com.github.mikephil.chart
 
 There are 9 possible categories of expenses: Health, Leisure, Home, Groceries, Gifts, Café,
 
-Transport, Cosmetics, Clothes and shoes.
-<img width="548" height="343" alt="image" src="https://github.com/user-attachments/assets/99daf452-bd8a-4925-82a7-668cdaad35f8" />
+Transport, Cosmetics, Clothes and Shoes.
 
+<img width="548" height="343" alt="image" src="https://github.com/user-attachments/assets/99daf452-bd8a-4925-82a7-668cdaad35f8" />
 
 In order to save all the recordings, I use the file “expenses.txt” in the Internal storage. Every
 
