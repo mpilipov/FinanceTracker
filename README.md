@@ -74,14 +74,14 @@ email to him.
 5) Export – this menu item is designed to export the data to Excel format file.
 
 
+
+<img width="444" height="423" alt="image" src="https://github.com/user-attachments/assets/628aaa79-51a0-4ce3-86c3-f5769e28e8c5" />
+
 Unfortunately, it was not possible to make the main screen more interesting, because the
 
 side menu activity did not allow to put any other elements on it – the application stopped
 
 working in such cases.
-
-<img width="444" height="423" alt="image" src="https://github.com/user-attachments/assets/628aaa79-51a0-4ce3-86c3-f5769e28e8c5" />
-
 
 # **Expenses**
 
