@@ -133,7 +133,7 @@ Piechart immediately. I used Piechart from the library com.github.mikephil.chart
 
 
 There are 5 possible categories of expenses: Paycheck, Gift, Dividend, Bonus
-<img width="772" height="480" alt="image" src="https://github.com/user-attachments/assets/d88e4d78-54fc-4e69-ba35-c4bfcfbd5d1d" />
+<img width="672" height="418" alt="image" src="https://github.com/user-attachments/assets/d88e4d78-54fc-4e69-ba35-c4bfcfbd5d1d" />
 
 
 In order to save all the recordings, I use the file “incomes.txt” in the Internal storage. Every
@@ -176,7 +176,7 @@ between expenses and incomes. If the balance is positive, the background of it i
 
 Otherwise the background is red.
 
-<img width="660" height="617" alt="image" src="https://github.com/user-attachments/assets/c5e7b3ea-48b4-4ff0-8767-083537ff1aa9" />
+<img width="560" height="524" alt="image" src="https://github.com/user-attachments/assets/c5e7b3ea-48b4-4ff0-8767-083537ff1aa9" />
 
 # **Settings**
 
