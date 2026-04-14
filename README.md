@@ -8,7 +8,7 @@ This Android application is for tracking user's finances made by
 
 The Finance Tracker application helps the user to track his or her money incomes and
 
-expenses in convenient way.
+expenses in convenient way. It was developed using Android SDK platform.
 
 
 **Key elements:**
